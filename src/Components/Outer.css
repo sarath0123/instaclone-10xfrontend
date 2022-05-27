@@ -1,0 +1,6 @@
+.card-section{
+    width: 95%;
+    padding: 2.5%;
+    /* background-color: lightgrey; */
+    display: grid;
+}
